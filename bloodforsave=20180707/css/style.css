@@ -1,3 +1,9 @@
+/*--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+--*/
 html, body{
 	margin:0;
 	font-size: 100%;
@@ -582,7 +588,6 @@ button.w3view-cart {
 }
 .men-pro-item {
     position: relative;
-	border: 1px solid #CACACA;
 }
 .men-thumb-item {
     position: relative;
@@ -992,7 +997,7 @@ h3.w3l-nut-middle {
     -webkit-transform: rotate(-64deg);
 }
 /*-- //nuts --*/
-.footer, .contact-w3l, .w3_wthree_agileits_icons, .typo, .faqs-w3l, .terms-of-use, .welcome, .about, .banner-bootom-w3-agileits, .privacy {
+.ads-grid, footer, .contact-w3l, .w3_wthree_agileits_icons, .typo, .faqs-w3l, .terms-of-use, .welcome, .about, .banner-bootom-w3-agileits, .privacy {
     padding: 5em 0;
 }
 /*-- tittle heading --*/
@@ -1397,7 +1402,7 @@ p.footer-main span {
     color: #fff;
 }
 .copy-right p a:hover{
-    color: #191819;
+    color: #f44336;
 }
 /*-- //copyright --*/
 /*-- bottom-to-top --*/
